@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yf8Y6MCrBGGRSVaszzlIn94lrzj3oX4X0vY/Ik+Z8GPRYFVgvXpBoirubYOC8UwsMPzXjYRoyQJ2JmMca8yDqg==",
+  "success": true,
+  "projectFilePath": "/home/damayn/dev/C#_Project/CarDealer/CarDealer.csproj",
+  "expectedPackageFiles": [
+    "/home/damayn/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/damayn/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/damayn/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/damayn/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/damayn/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/damayn/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
